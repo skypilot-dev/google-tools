@@ -36,6 +36,7 @@
     "typecheck": "tsc"
   },
   "devDependencies": {
+    "@skypilot/common-types": "^1.7.2",
     "@skypilot/toolchain": "^4.0.4-next.0"
   },
   "publishConfig": {
