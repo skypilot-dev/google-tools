@@ -44,5 +44,9 @@
   "files": [
     "/lib"
   ],
-  "types": "lib/index.d.ts"
+  "types": "lib/index.d.ts",
+  "dependencies": {
+    "google-auth-library": "^6.0.0",
+    "googleapis": "^51.0.0"
+  }
 }
