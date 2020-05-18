@@ -3,6 +3,9 @@ import * as actualExports from '../index';
 const intendedExports: string[] = [
   /* Auth */
   'createAuthClient',
+  /* Google Drive */
+  'downloadSpreadsheet',
+  'downloadSpreadsheets',
 ];
 
 describe('Validate exports', () => {

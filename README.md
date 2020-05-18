@@ -14,3 +14,8 @@ Tools for working with Google APIs
 ### Auth
 
 - `createAuthClient`
+
+### Google Drive
+
+- `downloadSpreadsheet`
+- `downloadSpreadsheets`
