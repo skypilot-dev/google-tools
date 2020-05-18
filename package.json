@@ -1,0 +1,26 @@
+{
+  "name": "@skypilot/google-tools",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Tools for working with Google APIs",
+  "keywords": [
+    "google",
+    "apis",
+    "node",
+    "tools"
+  ],
+  "homepage": "https://github.com/skypilot-dev/google-tools#readme",
+  "bugs": {
+    "url": "https://github.com/skypilot-dev/google-tools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypilot-dev/google-tools.git"
+  },
+  "license": "ISC",
+  "author": "William Thorsen <wthorsen@skypilot.dev>",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
