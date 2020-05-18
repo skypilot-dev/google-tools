@@ -8,3 +8,9 @@
 [![license: ISC](https://img.shields.io/badge/license-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 Tools for working with Google APIs
+
+## Functions
+
+### Auth
+
+- `createAuthClient`
